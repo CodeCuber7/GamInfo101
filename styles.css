@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
   margin:0;
   font-family: Arial;
   background-color: whitesmoke;
@@ -74,29 +73,6 @@ background-color: #333;
 
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child), .dropdown .dropbtn {
-=======
-    margin:0;
-    font-family: Arial;
-    background-color: #333;
-  }
-  
-  .topnav {
-  overflow: hidden;
-  background-color: #1d2a35;
-  }
-  
-  .topnav a {
-    float: left;
-    display: block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-  
-  .topnav .icon {
->>>>>>> b81a052e815b313f7c10112ce06e02155ff67d1d
     display: none;
   }
   
@@ -141,12 +117,6 @@ content {
     padding-left: 16px;
 }
 
-<<<<<<< HEAD
 h1 {
     text-align: center;
 }
-=======
-  h1 {
-      text-align: center;
-  }
->>>>>>> b81a052e815b313f7c10112ce06e02155ff67d1d
